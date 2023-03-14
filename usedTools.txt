@@ -1,0 +1,21 @@
+
+1- charts (Recharts, nivo) 
+https://recharts.org/en-US
+https://nivo.rocks/components
+
+
+2- Calender (fullCalender, react-tailwindcss-datepicker)
+https://react-tailwindcss-datepicker.vercel.app/
+https://fullcalendar.io/demos
+
+
+3- forms (Formik)
+https://formik.org/docs/overview#installation
+
+
+4- sidebar (react-pro-sidebar)
+https://github.com/azouaoui-med/react-pro-sidebar
+
+react-burger-menu 
+
+5- excel (ReactGrid, react-spreadsheet,sheetjs)

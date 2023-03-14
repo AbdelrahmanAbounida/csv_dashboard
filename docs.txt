@@ -1,0 +1,5 @@
+
+1- create Theme, custom hook to toggle mode
+2- create main componenets like navbar, sidebar, ...
+3- add themeprovider, current color mode context above app
+4- add navbar above app
